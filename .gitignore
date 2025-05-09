@@ -1,0 +1,6 @@
+# React and Node.js
+node_modules/
+.env
+build/
+dist/
+.DS_Store
