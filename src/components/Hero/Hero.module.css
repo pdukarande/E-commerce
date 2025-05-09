@@ -1,0 +1,9 @@
+.main{
+   background-image: url("/src/images/background/hero.svg");
+   width: 100%;
+   height: 92vh;
+   background-position:top;
+   background-size: cover;
+   background-repeat: no-repeat;
+
+}
